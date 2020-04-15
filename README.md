@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## PIEDMONT ATLANTIC
 
 You can use the [editor on GitHub](https://github.com/Piedmont-Atlantic/piedmontatlantic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
